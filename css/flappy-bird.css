@@ -1,0 +1,12 @@
+body {
+  background: repeating-conic-gradient(#1a1a1a 0 18deg, #042e00 0 36deg);
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 768px) {
+
+.containerflappy {
+  margin-top: -40px;
+}
+}
