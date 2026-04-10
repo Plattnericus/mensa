@@ -1,1 +1,43 @@
 
+{
+  "menu": {
+    "lastUpdated": "2026-04-10T12:00:00Z",
+    "restaurant": "Schulmensa",
+    "dishes": [
+      { "id": "m1", "name": "Farfalle mit Zucchini und Lachssauce" },
+      { "id": "m2", "name": "Gebratene Hähnchenschenkel mit Pommes Frites" },
+      { "id": "m3", "name": "Kräuterknödel mit Pilzsauce" },
+      { "id": "m4", "name": "Truthahngeschnetzeltes mit Reis" },
+      { "id": "m5", "name": "Hirtenmaccheroni mit Mozzarelline" },
+      { "id": "m6", "name": "Kalbsgulasch mit Eierspätzle" },
+
+      { "id": "m7", "name": "Truthahnbraten mit Reis" },
+      { "id": "m8", "name": "Fusilli mit Thunfischsauce" },
+      { "id": "m9", "name": "Wienerschnitzel (Truthahn) mit Ofenkartoffeln" },
+      { "id": "m10", "name": "Spinatspätzle mit Schnittellauch und Sahnesauce" },
+      { "id": "m11", "name": "Huhnschnitzel mit Kroketten" },
+      { "id": "m12", "name": "Schollenfilet gebacken mit Kräuterkartoffeln" },
+
+      { "id": "m13", "name": "Rindsgulasch mit Polenta" },
+      { "id": "m14", "name": "Schlutzkrapfen mit Butter und Parmesan" },
+      { "id": "m15", "name": "Nudeln pasticciat (Nudelauflauf)" },
+      { "id": "m16", "name": "Penne mit Bolognesersauce" },
+      { "id": "m17", "name": "Wienerschnitzel (Truthahn) mit Bratkartoffeln" },
+      { "id": "m18", "name": "Vollkornnudel mit Gemüsesauce" },
+
+      { "id": "m19", "name": "Spinat- und Käseknödel mit Gorgonzolasauce" },
+      { "id": "m20", "name": "Fleischkrapfen mit Kartoffelpüree" },
+      { "id": "m21", "name": "Conchiglie mit Tomaten-Basilikumsauce und Mozzarelline" },
+      { "id": "m22", "name": "Käsepressknödel mit Sommergemüsesauce" },
+      { "id": "m23", "name": "Pennette mit Meeresfrüchten" },
+      { "id": "m24", "name": "Lasagne Bolognese oder Gemüse" },
+
+      { "id": "m25", "name": "Risotto mit Gemüse" },
+      { "id": "m26", "name": "Kabeljau gratiniert mit Polenta" },
+      { "id": "m27", "name": "Lachsschnitte im Ofen mit Schnittlauchkartoffeln" },
+      { "id": "m28", "name": "Pizza mit Thunfisch oder Margherita" },
+      { "id": "m29", "name": "Gemüsestrudel" },
+      { "id": "m30", "name": "Fussili mit Garnelen" }
+    ]
+  }
+}
