@@ -83,6 +83,7 @@
         "rating": 4.9,
         "date": "2026-04-10"
       },
+
       {
         "id": "d0411",
         "name": "Pizza (Thunfisch oder Margherita)",
@@ -97,9 +98,8 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.8,
-        "date": "2026-04-11"
+        "date": "2026-04-13"
       },
-
       {
         "id": "d0413",
         "name": "Truthahngeschnetzeltes mit Reis",
@@ -114,7 +114,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.7,
-        "date": "2026-04-13"
+        "date": "2026-04-14"
       },
       {
         "id": "d0414",
@@ -130,7 +130,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.5,
-        "date": "2026-04-14"
+        "date": "2026-04-15"
       },
       {
         "id": "d0415",
@@ -146,7 +146,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.8,
-        "date": "2026-04-15"
+        "date": "2026-04-16"
       },
       {
         "id": "d0416",
@@ -162,8 +162,9 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.4,
-        "date": "2026-04-16"
+        "date": "2026-04-17"
       },
+
       {
         "id": "d0417",
         "name": "Pizza (Thunfisch oder Margherita)",
@@ -178,9 +179,8 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.7,
-        "date": "2026-04-17"
+        "date": "2026-04-20"
       },
-
       {
         "id": "d0420",
         "name": "Hirtenmaccheroni mit Mozzarelline",
@@ -195,7 +195,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.2,
-        "date": "2026-04-20"
+        "date": "2026-04-21"
       },
       {
         "id": "d0421",
@@ -211,7 +211,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.6,
-        "date": "2026-04-21"
+        "date": "2026-04-22"
       },
       {
         "id": "d0422",
@@ -227,7 +227,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.5,
-        "date": "2026-04-22"
+        "date": "2026-04-23"
       },
       {
         "id": "d0423",
@@ -243,8 +243,9 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.6,
-        "date": "2026-04-23"
+        "date": "2026-04-24"
       },
+
       {
         "id": "d0424",
         "name": "Gemüsestrudel",
@@ -259,9 +260,8 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.3,
-        "date": "2026-04-24"
+        "date": "2026-04-27"
       },
-
       {
         "id": "d0427",
         "name": "Kalbsgulasch mit Eierspätzle",
@@ -276,7 +276,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.4,
-        "date": "2026-04-27"
+        "date": "2026-04-28"
       },
       {
         "id": "d0428",
@@ -292,7 +292,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.6,
-        "date": "2026-04-28"
+        "date": "2026-04-29"
       },
       {
         "id": "d0429",
@@ -308,7 +308,7 @@
         "isVegetarian": true,
         "isVegan": true,
         "rating": 4.7,
-        "date": "2026-04-29"
+        "date": "2026-04-30"
       },
       {
         "id": "d0430",
@@ -324,8 +324,9 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.3,
-        "date": "2026-04-30"
+        "date": "2026-05-01"
       },
+
       {
         "id": "d0501",
         "name": "Fusilli mit Garnelen",
@@ -340,7 +341,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.8,
-        "date": "2026-05-01"
+        "date": "2026-05-04"
       }
     ]
   }
