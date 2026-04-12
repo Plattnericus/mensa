@@ -1,6 +1,6 @@
 {
   "menu": {
-    "lastUpdated": "2026-04-12T12:00:00Z",
+    "lastUpdated": "2026-04-12T12:01:00Z",
     "restaurant": "Schulmensa",
     "dishes": [
       {
@@ -135,7 +135,7 @@
         "id": "d0416",
         "name": "Käsepressknödel mit Sommergemüsesauce",
         "description": "Goldbraun gebratene Südtiroler Käsepressknödel mit würzigem Bergkäse, dazu eine bunte Sauce aus frischem Sommergemüse.",
-        "imageUrl": "https://www.spar.at/content/dam/spardam/at/hz830/spar-mahlzeit/backen-mit-christina/rezeptfotos/huette/spar-mahlzeit-x-bmc-huette...",
+        "imageUrl": "https://www.kitzbueheler-alpen.com/media/anhangbild/kaspressknoedel-adobestock.jpg",
         "category": "Vegetarisch",
         "tags": ["Vegetarisch"],
         "fat": 12,
