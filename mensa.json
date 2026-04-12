@@ -1,6 +1,6 @@
 {
   "menu": {
-    "lastUpdated": "2026-04-11T08:00:00Z",
+    "lastUpdated": "2026-04-12T08:00:00Z",
     "restaurant": "Schulmensa",
     "dishes": [
       {
@@ -84,22 +84,6 @@
         "date": "2026-04-10"
       },
       {
-        "id": "d0411",
-        "name": "Pizza (Thunfisch oder Margherita)",
-        "description": "Knusprige Pizza nach Wahl: klassisch mit Tomatensugo, Mozzarella und Basilikum oder herzhaft belegt mit Thunfisch und Zwiebeln.",
-        "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&q=80",
-        "category": "Vegetarisch",
-        "tags": ["Pizza"],
-        "fat": 16,
-        "calories": 450,
-        "protein": 22,
-        "allergens": ["Gluten"],
-        "isVegetarian": true,
-        "isVegan": false,
-        "rating": 4.8,
-        "date": "2026-04-13"
-      },
-      {
         "id": "d0413",
         "name": "Truthahngeschnetzeltes mit Reis",
         "description": "Zartes Truthahngeschnetzeltes in einer cremigen Rahmsauce, serviert auf duftendem Langkornreis mit einem Hauch Muskatnuss.",
@@ -113,7 +97,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.7,
-        "date": "2026-04-14"
+        "date": "2026-04-13"
       },
       {
         "id": "d0414",
@@ -129,7 +113,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.5,
-        "date": "2026-04-15"
+        "date": "2026-04-14"
       },
       {
         "id": "d0415",
@@ -145,7 +129,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.8,
-        "date": "2026-04-16"
+        "date": "2026-04-15"
       },
       {
         "id": "d0416",
@@ -161,7 +145,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.4,
-        "date": "2026-04-17"
+        "date": "2026-04-16"
       },
       {
         "id": "d0417",
@@ -177,7 +161,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.7,
-        "date": "2026-04-20"
+        "date": "2026-04-17"
       },
       {
         "id": "d0420",
@@ -193,7 +177,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.2,
-        "date": "2026-04-21"
+        "date": "2026-04-20"
       },
       {
         "id": "d0421",
@@ -209,7 +193,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.6,
-        "date": "2026-04-22"
+        "date": "2026-04-21"
       },
       {
         "id": "d0422",
@@ -225,7 +209,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.5,
-        "date": "2026-04-23"
+        "date": "2026-04-22"
       },
       {
         "id": "d0423",
@@ -241,7 +225,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.6,
-        "date": "2026-04-24"
+        "date": "2026-04-23"
       },
       {
         "id": "d0424",
@@ -257,7 +241,7 @@
         "isVegetarian": true,
         "isVegan": false,
         "rating": 4.3,
-        "date": "2026-04-27"
+        "date": "2026-04-24"
       },
       {
         "id": "d0427",
@@ -273,7 +257,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.4,
-        "date": "2026-04-28"
+        "date": "2026-04-27"
       },
       {
         "id": "d0428",
@@ -289,7 +273,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.6,
-        "date": "2026-04-29"
+        "date": "2026-04-28"
       },
       {
         "id": "d0429",
@@ -305,7 +289,7 @@
         "isVegetarian": true,
         "isVegan": true,
         "rating": 4.7,
-        "date": "2026-04-30"
+        "date": "2026-04-29"
       },
       {
         "id": "d0430",
@@ -321,7 +305,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.3,
-        "date": "2026-05-01"
+        "date": "2026-05-30"
       },
       {
         "id": "d0501",
@@ -337,7 +321,7 @@
         "isVegetarian": false,
         "isVegan": false,
         "rating": 4.8,
-        "date": "2026-05-04"
+        "date": "2026-05-01"
       }
     ]
   }
